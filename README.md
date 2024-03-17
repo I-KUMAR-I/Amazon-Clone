@@ -1,1 +1,1 @@
-# learninf git, git-hub from internshala.
+# learning git, git-hub from internshala.
