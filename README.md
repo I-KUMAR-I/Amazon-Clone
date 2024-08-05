@@ -1,1 +1,1 @@
-# learning git, git-hub from internshala.
+Amazon clone using html and css.
